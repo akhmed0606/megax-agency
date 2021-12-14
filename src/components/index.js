@@ -1,0 +1,6 @@
+export { default as Navbar } from './Navbar/Navbar'
+export { default as Info } from './Info/Info'
+export { default as Home } from '../pages/Homepage/Home'
+export { default as Footer } from '../pages/Footer/Footer'
+export { default as Pricing } from '../pages/Pricing/Pricing'
+export { default as Products } from '../pages/Products/Products'
