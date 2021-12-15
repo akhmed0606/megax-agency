@@ -38,9 +38,9 @@ export const homeObjOne = {
     lightTopLine: true,
     lightText: true,
     lightTextDesc: true,
-    topLine: 'Michael Tailor',
+    topLine: 'Sandra Tailor',
     headline:
-      'Ultra helped me increase my revenue by over 3X in less than 3 months!',
+      'MegaX helped me increase my revenue by over 3x in less than 3 months!',
     description:
       "Their team is wonderful! I wish I started working with them earlier.",
     buttonLabel: 'View Case Study',
