@@ -13,7 +13,7 @@
 - Sticky Navbar
 - Hamburger Menu
 - Fully Responsive
-- 
+- Multiple Pages
 
 <br>
 
@@ -24,6 +24,7 @@ This project was developed using the following technologies:
 - [React](https://create-react-app.dev/)
 - [Styled Components](https://styled-components.com/)
 - [React Router](https://reactrouter.com/)
+- [unDraw images](https://undraw.co/)
 
 
 <br>
