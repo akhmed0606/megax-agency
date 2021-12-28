@@ -4,7 +4,7 @@
 
 ## 💡 About
 
-> Responsive React Website built using styled components and react-router to navigate between pages...
+> **Responsive React Website built using styled components and react-router to navigate between pages...
 
 <br>
 
