@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/megax-agency//static/js/main.a5c74e25.chunk.js",
-    "main.js.map": "/megax-agency//static/js/main.a5c74e25.chunk.js.map",
+    "main.js": "/megax-agency//static/js/main.948fb385.chunk.js",
+    "main.js.map": "/megax-agency//static/js/main.948fb385.chunk.js.map",
     "runtime-main.js": "/megax-agency//static/js/runtime-main.ceb51a8b.js",
     "runtime-main.js.map": "/megax-agency//static/js/runtime-main.ceb51a8b.js.map",
-    "static/js/2.b23200a5.chunk.js": "/megax-agency//static/js/2.b23200a5.chunk.js",
-    "static/js/2.b23200a5.chunk.js.map": "/megax-agency//static/js/2.b23200a5.chunk.js.map",
+    "static/js/2.77155c8d.chunk.js": "/megax-agency//static/js/2.77155c8d.chunk.js",
+    "static/js/2.77155c8d.chunk.js.map": "/megax-agency//static/js/2.77155c8d.chunk.js.map",
     "index.html": "/megax-agency//index.html",
-    "static/js/2.b23200a5.chunk.js.LICENSE.txt": "/megax-agency//static/js/2.b23200a5.chunk.js.LICENSE.txt",
+    "static/js/2.77155c8d.chunk.js.LICENSE.txt": "/megax-agency//static/js/2.77155c8d.chunk.js.LICENSE.txt",
     "static/media/data1.svg": "/megax-agency//static/media/data1.2ba6a245.svg",
     "static/media/data3.svg": "/megax-agency//static/media/data3.626a9e92.svg",
     "static/media/online2.svg": "/megax-agency//static/media/online2.79d16d48.svg",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ceb51a8b.js",
-    "static/js/2.b23200a5.chunk.js",
-    "static/js/main.a5c74e25.chunk.js"
+    "static/js/2.77155c8d.chunk.js",
+    "static/js/main.948fb385.chunk.js"
   ]
 }
