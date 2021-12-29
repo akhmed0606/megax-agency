@@ -3,11 +3,15 @@ import { Link } from 'react-router-dom';
 
 export const FooterContainer = styled.div`
   background-color: #101522;
-  padding: 2rem 0 1rem 0;
+  padding: 6rem 0 5rem 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  @media screen and (max-width: 1200px) {
+    padding: 2rem 0 2rem 0;
+  }
+  
 `;
 
 export const FooterSubscription = styled.section`
@@ -108,13 +112,12 @@ export const FooterLink = styled(Link)`
 
 export const WebsiteRights = styled.p`
   color: #fff;
-  margin-top: 20px;
+  margin-top: 40px;
   text-align:center;
 `;
 
 export const Hline = styled.hr `
   border-color: #0467FB;
   width:90%;
-  margin-left:auto;
-  margin-right:auto;
+  margin:45px auto 0 auto;
 `
