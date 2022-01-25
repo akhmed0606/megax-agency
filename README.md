@@ -5,7 +5,7 @@
 ## 💡 About
 
 > -A fully responsive React multi-page website that I built using React and reusable Styled Components that I can customize.
--I added react-router v6 to navigate between the pages...
+  -I added react-router v6 to navigate between the pages...
 
 <br>
 
