@@ -34,3 +34,6 @@ This project was developed using the following technologies:
 
 - ``npm i && npm start``
 
+## 🚀 Start Test
+
+- ``npm run test``
